@@ -1,0 +1,3 @@
+C:/Users/Raphaël/CLionProjects/quotes-freynet--serre-sauvanet-a/cmake-build-debug/CMakeFiles/quotes_freynet__serre_sauvanet_a.dir
+C:/Users/Raphaël/CLionProjects/quotes-freynet--serre-sauvanet-a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Raphaël/CLionProjects/quotes-freynet--serre-sauvanet-a/cmake-build-debug/CMakeFiles/rebuild_cache.dir

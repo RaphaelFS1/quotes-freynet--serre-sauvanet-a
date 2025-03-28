@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "quotes_freynet__serre_sauvanet_a",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "quotes_freynet__serre_sauvanet_a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quotes_freynet__serre_sauvanet_a-Debug-f5e809a67d751fe8594f.json",
+					"name" : "quotes_freynet__serre_sauvanet_a",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Rapha\u00ebl/CLionProjects/quotes-freynet--serre-sauvanet-a/cmake-build-debug",
+		"source" : "C:/Users/Rapha\u00ebl/CLionProjects/quotes-freynet--serre-sauvanet-a"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
